@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Kiếm tiền trực tuyến tại nhà 8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ways_title">Kiếm sống bằng trợ lý ảo.</string>
+    <string name="ways1">
+Trợ lý ảo hoạt động từ một địa điểm xa, chẳng hạn như văn phòng tại nhà, để cung cấp hỗ trợ quản trị cho khách hàng. Trợ lý ảo giúp khách hàng của họ một số nhiệm vụ, chẳng hạn như sắp xếp các chuyến đi, thực hiện nghiên cứu web và kiểm tra email.</string>
+    <string name="ways_title2">Trực tuyến, bạn có thể bán những thứ của riêng bạn</string>
+    <string name="ways2">Kiểm tra nhà của bạn để tìm các vật dụng mà bạn không sử dụng nữa. Những thứ sau đó có thể được liệt kê trên các nền tảng thương mại điện tử khác nhau để thu hút người mua sắm. Điều quan trọng là chụp ảnh rõ ràng, có độ phân giải cao về các mặt hàng của bạn để nhận được doanh số bán hàng tốt nhất. Tìm hiểu xem những thứ tương tự đang được bán với giá bao nhiêu trên internet và sau đó định giá các mặt hàng của riêng bạn một cách cạnh tranh.</string>
+    <string name="ways_title3">Tạo một cửa hàng trực tuyến.</string>
+    <string name="ways3">Ngay ngày nay, thương mại điện tử rất phổ biến. Người tiêu dùng cũng đang tìm kiếm các chương trình giảm giá đáng kinh ngạc trên mạng, ngay cả khi các cửa hàng thương mại điện tử lớn chiếm phần lớn thị phần. Cân nhắc tạo phễu bán hàng để giúp bạn thu hút khách hàng đến với sản phẩm và dịch vụ của mình.</string>
+    <string name="ways_title4">Thực hiện một khóa học trực tuyến</string>
+    <string name="ways4">Cân nhắc tạo khóa học trực tuyến của riêng bạn nếu bạn có kiến thức chuyên môn về thị trường mà những người khác muốn tự học. Bạn có thể tạo khóa học của mình trên nhiều trang web. Mặt khác, các khóa học trực tuyến có thể là một nguồn thu nhập thụ động tuyệt vời sau khi chúng được thiết kế và khởi chạy.</string>
+    <string name="ways_title5">Gia sư học sinh qua internet</string>
+    <string name="ways5">Sử dụng hiểu biết của bạn về các môn học cụ thể hoặc SAT hoặc ACT để cung cấp dịch vụ dạy kèm trực tuyến cho học sinh. Quảng cáo dịch vụ của bạn tại các trường học địa phương và tìm kiếm những sinh viên yêu cầu chúng. Chỉ các dịch vụ gia sư trực tuyến đã được thành lập mới đủ điều kiện để đăng ký.</string>
+
+    <string name="tips1">1.Tạo một cộng đồng trực tuyến và sau đó kiếm tiền từ nó với tư cách thành viên hoặc bán sản phẩm.</string>
+    <string name="tips2">2.Tạo một trang web, thu hút lưu lượng truy cập vào trang web và thu thập khách hàng tiềm năng để bán cho các doanh nghiệp hoặc người khác.</string>
+    <string name="tips3">3.Cung cấp lời mời đám cưới, thiệp và văn phòng phẩm khác với dịch vụ thư pháp.</string>
+    <string name="tips4">4.Mua đồ vật ở chợ trời hoặc bãi bán, tân trang và bán lại trên internet.</string>
+    <string name="tips5">5.Chơi trò chơi trực tuyến và cạnh tranh để giành giải thưởng.</string>
+    <string name="tips6">6.Viết một cuốn sách và bán nó.</string>
+    <string name="tips7">7.Cân nhắc làm việc như một người làm việc tự do.</string>
+    <string name="tips8">8.Đánh giá video.</string>
+    <string name="tips9">9.Thành lập một thẩm mỹ viện tại nhà.</string>
+    <string name="tips10">10.Tham gia nghiên cứu thị trường trên internet.</string>
+
+    <string name="guide_title1">Hướng dẫn hoàn chỉnh để kiếm tiền trên Internet</string>
+    <string name="guides1">Kiếm tiền trên internet không phải là một khái niệm mớiTrên thực tế, tôi đã đi trên con đường sự nghiệp này hơn một thập kỷ.
+Tuy nhiên, với việc ngày càng nhiều người làm việc tại nhà, tỷ lệ thất nghiệp gia tăng và nhu cầu tài chính ngày càng tăng, việc tìm kiếm một công việc hấp dẫn chưa bao giờ quan trọng hơn thế.</string>
+    <string name="guide_title2">Lợi ích của việc kiếm tiền trên internet là gì?</string>
+    <string name="guides2">Bạn có thể làm việc từ bất cứ đâu trên thế giới, cho dù đó là một quán cà phê trong khu phố, một khách sạn gần điểm nghỉ mát yêu thích của bạn, hay một khu nghỉ mát nhiệt đới bên hồ bơi nhâm nhi một ly cocktail.</string>
+    <string name="guides2_1">Mọi thứ bạn cần biết đều có sẵn miễn phí và rất dễ tìm.</string>
+    <string name="guides2_2">Nó cho phép bạn đặt giờ làm việc của riêng mình và quản lý lịch trình của riêng bạn.</string>
+    <string name="guides2_3">
+Khả năng kiếm tiền của bạn chỉ bị giới hạn bởi trí tưởng tượng và mong muốn nỗ lực của bạn.</string>
+    <string name="guides2_4">Nó cho phép bạn theo đuổi những thứ mà bạn thực sự nhiệt tình hơn là bị mắc kẹt trong một thói quen 9-5.</string>
+    <string name="guide_title3">Kiếm sống như một nhà tiếp thị liên kết.</string>
+    <string name="guide3">Kiếm tiền trực tuyến thông qua tiếp thị liên kết là một phương pháp đã được kiểm chứng và đúng.</string>
+    <string name="guide_title4">Kiếm tiền với tư cách là người có ảnh hưởng trên internet.</string>
+    <string name="guide4">Kiếm tiền với tư cách là một người có ảnh hưởng trực tuyến cần nhiều thời gian. Bạn phải có một khán giả tin tưởng bạn và làm theo lời khuyên của bạn để được gọi là "người có ảnh hưởng".</string>
+    <string name="guide_title5">Kiếm tiền bằng cách tham gia các cuộc khảo sát, viết bài đánh giá hoặc thử nghiệm ứng dụng.</string>
+    <string name="guide5">Bạn có thể được trả tiền để thực hiện nhiều nhiệm vụ khác nhau cho doanh nghiệp, chẳng hạn như thực hiện khảo sát, viết đánh giá hoặc thử nghiệm ứng dụng. Nghe có vẻ không "hào nhoáng" như thành lập một doanh nghiệp internet hoặc trở thành một người có ảnh hưởng, nhưng bạn có thể được trả tiền để làm nhiều việc khác nhau cho doanh nghiệp.</string>
+
+    <string name="about_title">Ứng dụng này là về cách bạn giúp kiếm tiền trực tuyến.</string>
+    <string name="about">Tiền là vật có giá trị nhất trong cuộc sống của chúng ta, và do đó, nó đã trở thành một yếu tố không thể tách rời trong sự tồn tại của chúng ta. Theo các cuộc điều tra khoa học hiện nay, một sự thật đã được chứng minh là tiền có thể mua được hạnh phúc.
+    Trên thực tế, một người càng kiếm được nhiều tiền, họ càng mãn nguyện và hạnh phúc với cuộc sống của mình.
+Mặc dù thực tế là nhiều thứ không có giá nhưng tiền có thể được dùng để mua hầu hết mọi thứ.
+    Cũng có một câu ngạn ngữ cổ đại như sau: "Chỉ những người không có tiền mới nói với bạn rằng tiền không thể mua cho bạn hạnh phúc; những người có nó thì không."</string>
+
+</resources>

@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.application.tablayout.fragments.FragmentGuide">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:id="@+id/ban3"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/banner3"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Hướng dẫn hoàn chỉnh để kiếm tiền trực tuyến"
+        android:textAlignment="center"
+        android:textColor="@color/gold"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/gd1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="50dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/roundedbutton1"
+                android:text="@string/guide_title1"
+                android:textColor="#64DD17"
+                android:textStyle="bold"
+                app:backgroundTint="@color/blue" />
+
+            <Button
+                android:id="@+id/gd2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gd1"
+                android:layout_marginHorizontal="50dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/roundedbutton1"
+                android:text="@string/guide_title2"
+                android:textColor="#64DD17"
+                android:textStyle="bold"
+                app:backgroundTint="@color/blue" />
+
+            <Button
+                android:id="@+id/gd3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gd2"
+                android:layout_marginHorizontal="50dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/roundedbutton1"
+                android:text="@string/guide_title3"
+                android:textColor="#64DD17"
+                android:textStyle="bold"
+                app:backgroundTint="@color/blue" />
+
+            <Button
+                android:id="@+id/gd4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gd3"
+                android:layout_marginHorizontal="50dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/roundedbutton1"
+                android:text="@string/guide_title4"
+                android:textColor="#64DD17"
+                android:textStyle="bold"
+                app:backgroundTint="@color/blue" />
+
+            <Button
+                android:id="@+id/gd5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gd4"
+                android:layout_marginHorizontal="50dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/roundedbutton1"
+                android:text="@string/guide_title5"
+                android:textColor="#64DD17"
+                android:textStyle="bold"
+                app:backgroundTint="@color/blue" />
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

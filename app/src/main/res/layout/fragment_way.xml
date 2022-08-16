@@ -1,0 +1,149 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.application.tablayout.fragments.FragmentWay">
+
+    <ImageView
+        android:id="@+id/ban1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/banner1"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/textView00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Dưới đây là những cách kiếm tiền tại nhà"
+        android:textAlignment="center"
+        android:textColor="@color/gold"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/ways001"
+                android:layout_width="match_parent"
+                android:layout_height="95dp"
+                android:layout_marginHorizontal="80dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/way1"
+                android:contentDescription="@null" />
+
+            <TextView
+                android:id="@+id/ways01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ways001"
+                android:layout_marginHorizontal="80dp"
+                android:text="@string/ways_title"
+                android:textAlignment="center"
+                android:textColor="@color/yellow"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/ways002"
+                android:layout_width="match_parent"
+                android:layout_height="95dp"
+                android:layout_below="@+id/ways01"
+                android:layout_marginHorizontal="80dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/way02"
+                android:contentDescription="@null" />
+
+            <TextView
+                android:id="@+id/ways02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ways002"
+                android:layout_marginHorizontal="80dp"
+                android:text="@string/ways_title2"
+                android:textAlignment="center"
+                android:textColor="@color/yellow"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/ways003"
+                android:layout_width="match_parent"
+                android:layout_height="95dp"
+                android:layout_below="@+id/ways02"
+                android:layout_marginHorizontal="80dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/way3"
+                android:contentDescription="@null" />
+
+            <TextView
+                android:id="@+id/ways03"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ways003"
+                android:layout_marginHorizontal="80dp"
+                android:text="@string/ways_title3"
+                android:textAlignment="center"
+                android:textColor="@color/yellow"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/ways004"
+                android:layout_width="match_parent"
+                android:layout_height="95dp"
+                android:layout_below="@+id/ways03"
+                android:layout_marginHorizontal="80dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/way4"
+                android:contentDescription="@null" />
+
+            <TextView
+                android:id="@+id/ways04"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ways004"
+                android:layout_marginHorizontal="80dp"
+                android:text="@string/ways_title4"
+                android:textAlignment="center"
+                android:textColor="@color/yellow"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/ways005"
+                android:layout_width="match_parent"
+                android:layout_height="95dp"
+                android:layout_below="@+id/ways04"
+                android:layout_marginHorizontal="80dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/way5"
+                android:contentDescription="@null" />
+
+            <TextView
+                android:id="@+id/ways05"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ways005"
+                android:layout_marginHorizontal="80dp"
+                android:text="@string/ways_title5"
+                android:textAlignment="center"
+                android:textColor="@color/yellow"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

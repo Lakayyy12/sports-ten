@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.application.tablayout.fragments.FragmentTip">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/ban2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/banner2"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/textView0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Các mẹo khác để kiếm tiền tại nhà"
+        android:textAlignment="center"
+        android:textColor="@color/gold"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips1"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView1"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips2"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips3"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView3"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips4"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView4"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips5"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView5"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips6"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView6"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips7"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView7"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips8"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView8"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="@string/tips9"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView9"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:text="@string/tips10"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

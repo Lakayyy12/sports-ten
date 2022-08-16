@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical"
+    tools:context=".GuidesPage"
+    tools:ignore="MissingDefaultResource">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/guide_title1"
+        android:textAlignment="center"
+        android:textColor="@color/yellow"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:lineSpacingMultiplier="1.2"
+            android:text="@string/guides1"
+            android:textColor="@color/gold"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
